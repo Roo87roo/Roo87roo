@@ -13,12 +13,11 @@
   <h4>🔭 I’m currently working on ...<h4>
    
     
-     <br>- Azure Active Directory<br>
+     - Azure Active Directory
      - Azure Cloud Hardening Tips and Guide
      - Comptia SEC+
    
-    
-    - ⚡ Fun fact: ... I'm a PRO WRESTLER!/ FISHING ENTHUSIAST!💪💪💪
+    ⚡ Fun fact: ... I'm a PRO WRESTLER!/ FISHING ENTHUSIAST!💪💪💪
      
   <h2> 🤳 Connect with me:</h2>www.linkedin.com/in/antoine-curtis-19380124a
 
