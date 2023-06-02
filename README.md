@@ -1,5 +1,5 @@
 ### WELCOME! 👋<h1>Hi, I'm Antoine Curtis 
-  -Cybersecurity enthusiast
+  - <h2>Cybersecurity enthusiast<hs>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
