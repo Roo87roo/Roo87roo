@@ -11,6 +11,7 @@
   - Capturing incidents/ responding to incidents
  
   <h3>🔭 I’m currently working on ...<h3>
+   
     - Azure Active Directory
     - Azure Cloud Hardening Tips and Guide
     - Comptia SEC+
