@@ -9,7 +9,8 @@
   - Log ingestion and aggregation
   - utilize a SIEM (microsoft Sentinel)
   - Capturing incidents/ responding to incidents
-  - 🔭 I’m currently working on ...
+ 
+  <h3>🔭 I’m currently working on ...<h3>
     - Azure Active Directory
     - Azure Cloud Hardening Tips and Guide
     - Comptia SEC+
