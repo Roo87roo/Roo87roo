@@ -11,7 +11,7 @@
   - Capturing incidents/ responding to incidents
   
   <h2> 🤳 Connect with me:</h2>
-  [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="Antoine Curtis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   
   
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
