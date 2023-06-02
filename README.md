@@ -12,9 +12,9 @@
  
   <h3>🔭 I’m currently working on ...<h3>
    
-    - Azure Active Directory
-    - Azure Cloud Hardening Tips and Guide
-    - Comptia SEC+
+     - Azure Active Directory
+     - Azure Cloud Hardening Tips and Guide
+     - Comptia SEC+
      
   <h2> 🤳 Connect with me:</h2>www.linkedin.com/in/antoine-curtis-19380124a
 
