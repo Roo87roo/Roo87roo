@@ -11,7 +11,7 @@
   - Capturing incidents/ responding to incidents
   
   <h2> 🤳 Connect with me:</h2>
-  [<img align="left" alt="Antoine Curtis www.linkedin.com/in/
+ Antoine Curtis www.linkedin.com/in/
 antoine-curtis-19380124a
 
 
