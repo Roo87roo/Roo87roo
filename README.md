@@ -1,9 +1,9 @@
 ### WELCOME! 👋<h1>greetings, I'm Antoine Curtis<h2>🖥️Cybersecurity enthusiast🖥️<hs>
 
-  <h2>CYBERSECURITY PROJECTS:</h2>
+  <h3>CYBERSECURITY PROJECTS:</h3>
 
 - <b>home lab: SOC/honeynet</b>
-  - Soc/honeynet built within Azure Cloud 
+  - SOC/honeynet built within Azure Cloud 
   - Live attacks! (insecure enviorment)
   - Hardening Virtual Network (secure enviorment)
   - Log ingestion and aggregation
