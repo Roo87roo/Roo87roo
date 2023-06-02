@@ -1,4 +1,4 @@
-### WELCOME! 👋<h1>Hi, I'm Antoine Curtis<h2>Cybersecurity enthusiast<hs>
+### WELCOME! 👋<h1>Hi, I'm Antoine Curtis<h2>.🖥️Cybersecurity enthusiast🖥️<hs>
 
   <h2>👨‍💻 Software Development Projects:</h2>
 
