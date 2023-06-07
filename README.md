@@ -2,7 +2,7 @@
 
   <h3>CYBERSECURITY PROJECTS:</h3>
 
-- <b>home lab: SOC/honeynet</b>
+- <b>https://github.com/Roo87roo/Azure-sec</b>
   - SOC/honeynet built within Azure Cloud 
   - Live attacks! (insecure enviorment)
   - Hardening Virtual Network (secure enviorment)
